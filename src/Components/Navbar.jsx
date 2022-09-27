@@ -12,7 +12,7 @@ function Navbar({ showSlider }) {
       p={2}
       sx={{
         position: "sticky",
-        backgroundColor: "#000",
+        backgroundColor: "#000000",
         top: 0,
         justifyContent: "space-between",
         height: "50px",
